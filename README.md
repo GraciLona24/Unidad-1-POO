@@ -1,6 +1,6 @@
 # Unidad-1-POO
-Graciela Janeth Lona Barcelata
-25150062
+Nombre: Graciela Janeth Lona Barcelata
+Numero de control: 25150062
 
 Problema 1 Clasficacion de triangulos: Se piden 3 longitudes de los lados de un triangulo y se determina si es equilatero, isosceles o escaleno.
 Problema 2 Año bisiesto: Se pide ingresar un año y se verifica si es bisiesto , si es divisible entre 4 pero no entre 100, o divisible  entre 400.
